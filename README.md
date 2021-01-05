@@ -4,8 +4,8 @@
 
 
 <p align = "center">
-  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/marceloppb/solidesweb">
-  <img alt = "GitHub principal idioma" src = "https://img.shields.io/github/languages/top/marceloppb/solidesweb">
+  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/marceloppb/solides">
+  <img alt = "GitHub principal idioma" src = "https://img.shields.io/github/languages/top/marceloppb/solides">
 </p>
 
 ## Link to access the website of this application
@@ -32,10 +32,10 @@ This project was developed with the following technologies:
 
 ## Starting
 
-1. Clone este repo usando `git clone git@githubcom:marceloppb/solidesweb.git`
-2. Mova-se para o diretório apropriado: `cd solidesweb` <br />
-3. Execute `yarn` para instalar dependências <br />
-4. Execute `yarn dev` para iniciar localmente <br />
+1. Clone this repo using `git clone git@githubcom:marceloppb/solidesweb.git`
+2. Move to the appropriate directory: `cd solidesweb` <br />
+3. Run `yarn` to install dependencies <br />
+4. Run `yarn dev` to start locally <br />
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

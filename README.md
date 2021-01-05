@@ -1,28 +1,28 @@
 <img src="/public/logo.svg" alt="logo">
 
-# Registro de ponto de funcionários
+# Employee point registration
+
 
 <p align = "center">
-  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/marceloppb/solidesweb">
-  <img alt = "GitHub principal idioma" src = "https://img.shields.io/github/languages/top/marceloppb/solidesweb">
+  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/marceloppb/solides">
+  <img alt = "GitHub principal idioma" src = "https://img.shields.io/github/languages/top/marceloppb/solides">
 </p>
 
-## Link para acessar o site desta aplicação
+## Link to access the website of this application
 
 <a>//</a>
 
-## Pequena descrição
+## Short description
 
-Este pequeno projeto, ajuda uma empresa a gerir os horários de seus funcionários no dia-a-dia. Registrando assim o horário de entrada, saída para almoço, volta do almoço e saída no fim do expediente.
+This small project helps a company to manage its employees' schedules on a day-to-day basis. Thus recording the time of entry, departure for lunch, return of lunch and departure at the end of working hours.
 
-## 💻 Projeto
+## 💻 Project
 
-Uma simples aplicação (construida com o framework NextJS, com estilização feita com Tailwind e banco de dados MongoDb) onde o funcionário cria seu cadastro com nome, email, senha. Faz sua autenticação que dura em torno de 1 hora, após isso deve autenticar novamente para registrar novo ponto.
-Para registrar um ponto basta clicar no botão registrar verificando qual o tipo de horário (entrada, saida para alomoço, volta do almoço e saída) e pronto, o registro foi feito com sucesso. Para verificar todos os registros basta acessar no menu nav a opção "Listar registros".
+A simple application (built with the NextJS framework, stylized with Tailwind and MongoDb database) where the employee creates his registration with name, email, password. It authenticates for about 1 hour, after which you must authenticate again to register a new point. To register a point, just click on the register button, checking the type of time (entry, departure for lunch, return of lunch and departure) and that's it, the registration was successful. To check all records, simply access the "List records" option in the nav menu.
 
-## 🚀 Tecnologia
+## 🚀 Technology
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js] (https://nodejs.org/en/)
 - [NextJs] (https://nextjs.org/)
@@ -30,12 +30,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Styled Components] (https://styled-components.com//)
 - [Vercel] (https://vercel.com/home)
 
-## Começando
+## Starting
 
-1. Clone este repo usando `git clone git@githubcom:marceloppb/solidesweb.git`
-2. Mova-se para o diretório apropriado: `cd solidesweb` <br />
-3. Execute `yarn` para instalar dependências <br />
-4. Execute `yarn dev` para iniciar localmente <br />
+1. Clone this repo using `git clone git@githubcom:marceloppb/solidesweb.git`
+2. Move to the appropriate directory: `cd solidesweb` <br />
+3. Run `yarn` to install dependencies <br />
+4. Run `yarn dev` to start locally <br />
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

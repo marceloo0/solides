@@ -56,10 +56,11 @@ const SignIn: React.FC = () => {
 
       router.push(`/registrar`)
     } catch (err) {
-      alert(
-        err?.response?.data?.error ||
-          'Ocorreu um erro ao fazer cadastro, verifique seus dados.'
-      )
+      addToast({
+        type: 'error',
+        title: 'Erro de dados',
+        description: 'Verifique seus dados e tente novamente.'
+      })
     }
   }
 
